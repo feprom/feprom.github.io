@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="236.16pt" version="1.1" viewBox="0 0 150 150" width="237.6pt" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+  </defs>
+  <g id="figure_1" transform="matrix(0.993378, 0, 0, 0.999828, 0, 0)">
+    <g id="axes_1" transform="matrix(0.845654, 0, 0, 0.845654, -24.963711, -24.84193)">
+      <g id="patch_2">
+        <path clip-path="url(#pc34a678fec)" d="M 29.52 206.784 L 208.08 206.784 L 208.08 29.376 L 29.52 29.376 z " style="stroke-linejoin: miter; fill: rgb(0, 164, 122); stroke: rgb(0, 164, 122);"/>
+      </g>
+      <g transform="matrix(1.162666, 0, 0, 1.162666, -19.439329, -18.100937)">
+        <g id="patch_3">
+          <path clip-path="url(#pc34a678fec)" d="M 118.8 62.64 L 63 173.52 L 174.6 173.52 z " style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: miter; stroke-width: 9.49238px;"/>
+        </g>
+        <g id="text_1">
+          <g style="fill:#ffffff;" transform="translate(105.117188 145.72425)scale(0.6 -0.6)">
+            <defs>
+              <path d="M 897 4666 L 2022 4666 L 2022 2875 L 1863 1569 L 1056 1569 L 897 2875 L 897 4666 z M 897 1113 L 2022 1113 L 2022 0 L 897 0 L 897 1113 z " id="DejaVuSans-Bold-21" transform="scale(0.015625)"/>
+            </defs>
+            <path d="M 897 4666 L 2022 4666 L 2022 2875 L 1863 1569 L 1056 1569 L 897 2875 L 897 4666 z M 897 1113 L 2022 1113 L 2022 0 L 897 0 L 897 1113 z " transform="matrix(0.015625, 0, 0, 0.015625, 0, 0)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="pc34a678fec">
+      <rect height="221.76" width="223.2" x="7.2" y="7.2"/>
+    </clipPath>
+  </defs>
+</svg>
