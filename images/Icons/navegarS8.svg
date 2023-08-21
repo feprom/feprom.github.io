@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="198.02536542150807" y="251.8749887531153" angle="0"/>
+    <bx:guide x="213.52972984196475" y="246.59690724827897" angle="0"/>
+  </defs>
+  <rect width="120" height="120" style="stroke: rgb(255, 255, 255); fill: rgb(0, 164, 122);"/>
+  <g id="Original" transform="matrix(0.828347, 0, 0, 0.828347, 21.903589, 28.238293)" style="">
+    <polygon class="cls-1" points="20.85 55.32 12.37 66.62 12.37 69.45 73.03 69.45 73.03 66.62 64.55 55.32 20.85 55.32" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke: rgb(255, 255, 255); fill-opacity: 0; stroke-width: 2.41445px;"/>
+    <line class="cls-2" x1="12.37" y1="66.62" x2="73.03" y2="66.62" style="fill: none; stroke-miterlimit: 1; stroke: rgb(255, 255, 255); stroke-width: 2.41445px;"/>
+    <rect class="cls-1" x="32.07" y="44.52" width="21.25" height="14.44" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke-width: 0.85px; stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <rect class="cls-1" x="0.43" y="0.43" width="84.47" height="48.91" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke: rgb(255, 255, 255); fill-opacity: 0; stroke-width: 2.41445px;"/>
+    <rect class="cls-3" x="3.91" y="4.22" width="77.51" height="41.32" style="fill: rgb(217, 237, 245); stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <polyline class="cls-4" points="93.84 59.12 92.54 60.26 88 55.04 89.29 53.93 93.84 59.12" style="fill: rgb(0, 85, 124); fill-rule: evenodd; stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <polygon class="cls-5" points="93.84 59.12 92.54 60.26 88 55.04 89.29 53.93 93.84 59.12" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-width: 2.41445px;"/>
+    <rect class="cls-6" x="438.92" y="203.36" width="5.2" height="23.4" transform="translate(-374.68 195.03) rotate(-41.09)" style="fill: rgb(0, 85, 124); stroke: rgb(255, 255, 255); fill-opacity: 0; stroke-width: 2.41445px;"/>
+    <path class="cls-7" d="M408.64,200.94a15.48,15.48,0,1,1,21.85,1.48,15.5,15.5,0,0,1-21.85-1.48" transform="translate(-342.1 -148.16)" style="fill: none; stroke-miterlimit: 3.86; stroke: rgb(255, 255, 255); stroke-width: 2.41445px;"/>
+    <line class="cls-8" x1="31.36" y1="31.7" x2="31.36" y2="34.87" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <line class="cls-8" x1="36.49" y1="17.74" x2="48.84" y2="17.74" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <line class="cls-8" x1="48.29" y1="17.8" x2="48.29" y2="20.98" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <line class="cls-8" x1="37" y1="17.8" x2="37" y2="20.98" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <line class="cls-8" x1="48.29" y1="28.75" x2="48.29" y2="31.93" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <line class="cls-8" x1="37" y1="28.75" x2="37" y2="31.93" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <line class="cls-8" x1="42.65" y1="14.64" x2="42.65" y2="17.74" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-9" x="38.78" y="6.9" width="7.74" height="7.74" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke-width: 0.3px; stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <line class="cls-8" x1="30.83" y1="31.93" x2="54.47" y2="31.93" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <line class="cls-8" x1="42.65" y1="31.84" x2="42.65" y2="34.93" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-9" x="38.78" y="34.88" width="7.74" height="7.74" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke-width: 0.3px; stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <rect class="cls-9" x="33.14" y="20.99" width="7.74" height="7.74" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke-width: 0.3px; stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <rect class="cls-9" x="44.42" y="20.99" width="7.74" height="7.74" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke-width: 0.3px; stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <line class="cls-8" x1="53.93" y1="31.7" x2="53.93" y2="34.87" style="fill: none; stroke-width: 1.04px; stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-9" x="50.06" y="34.88" width="7.74" height="7.74" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke-width: 0.3px; stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <rect class="cls-9" x="27.49" y="34.88" width="7.74" height="7.74" style="fill: rgb(166, 196, 209); stroke-miterlimit: 3; stroke-width: 0.3px; stroke: rgb(255, 255, 255); fill-opacity: 0;"/>
+    <rect class="cls-10" x="38.78" y="6.9" width="7.84" height="1.52" style="fill: rgb(0, 85, 124); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-10" x="44.37" y="20.98" width="7.84" height="1.52" style="fill: rgb(0, 85, 124); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-10" x="33.08" y="20.98" width="7.84" height="1.52" style="fill: rgb(0, 85, 124); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-10" x="38.74" y="34.84" width="7.84" height="1.52" style="fill: rgb(0, 85, 124); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-10" x="27.44" y="34.84" width="7.84" height="1.52" style="fill: rgb(0, 85, 124); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-10" x="50.01" y="34.84" width="7.84" height="1.52" style="fill: rgb(0, 85, 124); stroke: rgb(255, 255, 255);"/>
+  </g>
+</svg>
