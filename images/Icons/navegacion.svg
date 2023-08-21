@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 120 120" style="shape-rendering: geometricprecision;" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="198.02536542150807" y="251.8749887531153" angle="0"/>
+    <bx:guide x="213.52972984196475" y="246.59690724827897" angle="0"/>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -28.580999, -47.257)">
+    <rect width="120" height="120" style="stroke: rgb(255, 255, 255); fill: rgb(6, 142, 194);" x="28.581" y="47.257"/>
+    <title>navigation-2</title>
+    <g id="Layer_2" data-name="Layer 2" transform="matrix(4.276414, 0, 0, 4.367129, 42.19466, 56.132126)" style="">
+      <g id="navigation-2">
+        <g id="navigation-2-2" data-name="navigation-2" transform="matrix(1, 0, 0, 1, 0.029948, -0.469208)">
+          <rect class="cls-1" width="24" height="24" style="opacity: 0; fill: rgb(255, 255, 255);"/>
+          <path class="cls-2" d="M13.67,22h-.06a1,1,0,0,1-.92-.8l-1.54-7.57a1,1,0,0,0-.78-.78L2.8,11.31a1,1,0,0,1-.12-1.93l16-5.33A1,1,0,0,1,20,5.32l-5.33,16A1,1,0,0,1,13.67,22Z" style="fill: rgb(255, 255, 255);"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
