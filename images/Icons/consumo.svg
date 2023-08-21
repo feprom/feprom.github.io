@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="198.02536542150807" y="251.8749887531153" angle="0"/>
+    <bx:guide x="213.52972984196475" y="246.59690724827897" angle="0"/>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -131.804001, -55.495998)">
+    <rect x="131.804" y="55.496" width="120" height="120" style="fill: rgb(236, 102, 8); stroke: rgb(255, 255, 255);"/>
+    <g transform="matrix(1, 0, 0, 1, 0.556987, -134.790924)">
+      <ellipse style="stroke: rgb(255, 248, 248); fill: rgb(255, 255, 255);" cx="149.146" cy="263.34" rx="4" ry="4"/>
+      <ellipse style="stroke: rgb(255, 248, 248); fill: rgb(255, 255, 255);" cx="171.291" cy="236.748" rx="4" ry="4"/>
+      <ellipse style="stroke: rgb(255, 248, 248); fill: rgb(255, 255, 255);" cx="197.972" cy="252.757" rx="4" ry="4"/>
+      <ellipse style="stroke: rgb(255, 248, 248); fill: rgb(255, 255, 255);" cx="234.792" cy="220.207" rx="4" ry="4"/>
+      <polyline style="fill-opacity: 0; stroke: rgb(255, 248, 248); fill: rgb(255, 255, 255);" points="149.308 263.089 171.347 236.616 198.098 252.833 234.69 220.26"/>
+      <ellipse style="fill-opacity: 0; stroke-width: 3px; stroke: rgb(255, 248, 248); fill: rgb(255, 255, 255);" cx="198.307" cy="251.243" rx="15" ry="15"/>
+      <line style="stroke-width: 5px; stroke: rgb(255, 248, 248); fill: rgb(255, 255, 255);" x1="208.928" y1="263.35" x2="218.397" y2="272.819"/>
+    </g>
+  </g>
+</svg>
