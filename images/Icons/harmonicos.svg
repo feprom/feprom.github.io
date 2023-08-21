@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="198.02536542150807" y="251.8749887531153" angle="0"/>
+    <bx:guide x="213.52972984196475" y="246.59690724827897" angle="0"/>
+  </defs>
+  <rect width="120" height="120" style="stroke: rgb(255, 255, 255); fill: rgb(236, 102, 8);"/>
+  <g transform="matrix(1, 0, 0, 1, -136.468903, -33.62196)">
+    <rect x="168.309" y="87.579" width="10" height="44.5" style="fill: rgb(250, 250, 250); stroke: rgb(236, 102, 8);"/>
+    <rect x="182.439" y="69.16" width="10" height="62.5" style="fill: rgb(250, 250, 250); stroke: rgb(236, 102, 8);"/>
+    <rect x="196.573" y="77.85" width="10" height="53.5" style="fill: rgb(250, 250, 250); stroke: rgb(236, 102, 8);"/>
+    <rect x="211.601" y="55.956" width="10" height="75" style="fill: rgb(250, 250, 250); stroke: rgb(236, 102, 8);"/>
+    <rect x="225.616" y="86.317" width="10" height="44.5" style="fill: rgb(250, 250, 250); stroke: rgb(236, 102, 8);"/>
+    <rect x="155.802" y="56.962" width="10" height="75" style="fill: rgb(250, 250, 250); stroke: rgb(236, 102, 8);"/>
+  </g>
+</svg>
