@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 272 179" xmlns="http://www.w3.org/2000/svg">
+  <g id="Original-2" data-name="Original" transform="matrix(2.969048, 0, 0, 2.675703, -1.276691, -1.123795)" style="">
+    <rect class="cls-1" x="0.43" y="0.43" width="91.1" height="65.88" style="stroke: rgb(0, 85, 124); stroke-miterlimit: 10; stroke-width: 0.85px; fill: rgb(87, 92, 118);"/>
+    <rect class="cls-2" x="4.23" y="0.43" width="83.5" height="60.8" style="fill: rgb(216, 220, 231);"/>
+    <polygon class="cls-3" points="83.16 21.37 83.16 10.04 86.5 10.04 86.5 0.42 5.39 0.43 5.39 60.07 86.54 60.07 86.54 21.37 83.16 21.37" style="fill: rgb(87, 92, 118);"/>
+    <polygon class="cls-4" points="86.54 10.48 86.54 12.46 86.2 12.46 86.2 11.66 83.48 11.66 83.48 11.28 86.2 11.28 86.2 10.48 86.54 10.48 86.54 10.48" style="fill-rule: evenodd; fill: rgb(87, 92, 118);"/>
+    <path class="cls-4" d="M434.29,167.19a.85.85,0,0,1,.28-.71,1.35,1.35,0,0,1,.9-.23h1a1,1,0,0,1,.73.24.9.9,0,0,1,.27.7.93.93,0,0,1-.27.72,1.05,1.05,0,0,1-.73.24h-1a1.43,1.43,0,0,1-.9-.23.89.89,0,0,1-.28-.73Zm.33,0a.47.47,0,0,0,.17.43,1.09,1.09,0,0,0,.67.14h1a.7.7,0,0,0,.49-.14.55.55,0,0,0,.17-.43.52.52,0,0,0-.17-.41.7.7,0,0,0-.49-.15h-1a1.1,1.1,0,0,0-.67.15.45.45,0,0,0-.17.41Z" transform="translate(-350.87 -153.72)" style="fill-rule: evenodd; fill: rgb(87, 92, 118);"/>
+    <path class="cls-4" d="M435.47,168.48h1.95v.39h-2a1.1,1.1,0,0,0-.67.15.47.47,0,0,0-.17.42.48.48,0,0,0,.17.43,1.15,1.15,0,0,0,.67.15h2v.38h-1.95a1.43,1.43,0,0,1-.9-.23.89.89,0,0,1-.28-.73.87.87,0,0,1,.28-.72,1.41,1.41,0,0,1,.9-.24Z" transform="translate(-350.87 -153.72)" style="fill-rule: evenodd; fill: rgb(87, 92, 118);"/>
+    <path class="cls-4" d="M436.57,172.5v-.41l.31,0A.51.51,0,0,0,437,172a.27.27,0,0,0,.09-.15.67.67,0,0,0,0-.18.56.56,0,0,0-.1-.35.29.29,0,0,0-.14-.11l-.2-.06a2.63,2.63,0,0,0-.43,0h-.82a1.21,1.21,0,0,0-.71.16.54.54,0,0,0-.13.39.39.39,0,0,0,.17.35.76.76,0,0,0,.47.12v.4a1.06,1.06,0,0,1-.73-.22.8.8,0,0,1-.24-.64,1,1,0,0,1,.16-.61,1.31,1.31,0,0,1,1.05-.34h.87a1.25,1.25,0,0,1,.88.26,1,1,0,0,1,.23.71.76.76,0,0,1-.23.62,1.11,1.11,0,0,1-.68.18Z" transform="translate(-350.87 -153.72)" style="fill-rule: evenodd; fill: rgb(87, 92, 118);"/>
+    <polygon class="cls-4" points="83.48 19.06 86.54 19.06 86.54 19.45 85.22 19.45 85.22 20.51 86.54 20.51 86.54 20.9 83.48 20.9 83.48 20.51 84.88 20.51 84.88 19.45 83.48 19.45 83.48 19.06 83.48 19.06" style="fill-rule: evenodd; fill: rgb(87, 92, 118);"/>
+    <rect class="cls-5" x="8.86" y="10.04" width="74.3" height="46.68" style="fill: rgb(216, 220, 231);"/>
+    <rect class="cls-6" x="8.79" y="2.16" width="8.59" height="2.29" style="fill: rgb(216, 220, 231);"/>
+    <rect class="cls-7" x="0.43" y="0.43" width="91.1" height="65.88" style="fill: none; stroke-miterlimit: 10; stroke-width: 0.85px; stroke: rgb(216, 220, 231);"/>
+  </g>
+  <g id="g-1" data-name="Original" transform="matrix(0.627826, 0, 0, 0.675622, 130.500534, 34.71228)" style="">
+    <rect class="cls-1" x="3.74" y="1.18" width="42.4" height="155.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="46.14" y="1.18" width="56.25" height="155.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="0.43" y="1.18" width="3.31" height="155.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="144.8" y="1.18" width="3.31" height="155.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="3.74" y1="17.81" x2="102.39" y2="17.81" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="3.74" y1="28.67" x2="46.14" y2="28.67" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="3.74" y1="43.26" x2="46.14" y2="43.26" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="3.74" y1="78.54" x2="46.14" y2="78.54" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="3.74" y1="99.57" x2="102.39" y2="99.57" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="3.74" y1="110.43" x2="46.14" y2="110.43" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="3.74" y1="145.37" x2="103.2" y2="145.37" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="13.86" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="15.3" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="8.14" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="9.58" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="11.01" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="12.44" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="16.68" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="13.86" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="15.3" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="8.14" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="9.58" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="11.01" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="12.44" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="16.68" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="23.83" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="25.27" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="18.11" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="19.55" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="20.98" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="22.41" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="26.65" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="23.83" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="25.27" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="18.11" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="19.55" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="20.98" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="22.41" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="26.65" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="33.74" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="35.18" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="28.03" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="29.46" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="30.89" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="32.33" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="36.57" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="33.74" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="35.18" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="28.03" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="29.46" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="30.89" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="32.33" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="36.57" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="38.03" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="39.47" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="40.85" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="38.03" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="39.47" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="40.85" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="56.99" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="58.43" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="51.27" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="52.71" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="54.14" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="55.57" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="59.81" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="56.99" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="58.43" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="51.27" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="52.71" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="54.14" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="55.57" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="59.81" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="66.96" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="68.4" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="61.24" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="62.68" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="64.11" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="65.54" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="69.78" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="66.96" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="68.4" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="61.24" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="62.68" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="64.11" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="65.54" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="69.78" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="76.87" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="78.31" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="71.16" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="72.59" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="74.02" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="75.46" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="79.7" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="76.87" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="78.31" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="71.16" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="72.59" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="74.02" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="75.46" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="79.7" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="81.16" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="82.6" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="83.98" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="81.16" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="82.6" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="83.98" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="89.64" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="91.08" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="85.36" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="86.79" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="88.22" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="92.46" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="89.64" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="91.08" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="85.36" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="86.79" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="88.22" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="92.46" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="93.92" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="95.36" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="96.74" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="93.92" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="95.36" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="96.74" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="20.28" y="0.68" width="9.48" height="6.14" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-4" d="M343.63,109.17h8V107h-8Z" transform="translate(-322.58 -105.23)" style="fill-rule: evenodd; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="69.9" y="0.43" width="9.48" height="6.14" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-4" d="M393.25,108.91h8v-2.12h-8Z" transform="translate(-322.58 -105.23)" style="fill-rule: evenodd; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="3.74" y="8.88" width="141.06" height="3.18" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="26.25" y="68.45" width="14.29" height="7.17" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="26.25" y="89.68" width="14.29" height="7.18" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="26.25" y="33.07" width="14.29" height="7.17" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="26.25" y="102.36" width="14.29" height="5.15" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-6" x="66.39" y="30.54" width="4.99" height="4.99" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-6" x="72.22" y="30.54" width="4.98" height="4.99" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-6" x="72.22" y="36.37" width="4.98" height="4.99" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-6" x="78.04" y="30.54" width="4.99" height="4.99" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="15.51" y="102.34" width="5.2" height="5.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-1" d="M342.5,210.17a1.88,1.88,0,1,1-1.88-1.87A1.88,1.88,0,0,1,342.5,210.17Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <polyline class="cls-1" points="16.41 104.39 20.72 104.39 20.72 105.51 16.41 105.51" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="26.25" y="21.03" width="14.29" height="5.15" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="15.51" y="21.01" width="5.2" height="5.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-1" d="M342.5,128.84a1.88,1.88,0,1,1-1.88-1.87A1.88,1.88,0,0,1,342.5,128.84Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <polyline class="cls-1" points="16.41 23.05 20.72 23.05 20.72 24.18 16.41 24.18" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="15.51" y="89.74" width="5.2" height="5.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-1" d="M342.5,197.58a1.88,1.88,0,1,1-1.88-1.88A1.88,1.88,0,0,1,342.5,197.58Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <polyline class="cls-1" points="16.41 91.79 20.72 91.79 20.72 92.91 16.41 92.91" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="15.51" y="35.03" width="5.2" height="5.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-1" d="M342.5,142.86a1.88,1.88,0,1,1-1.88-1.87A1.88,1.88,0,0,1,342.5,142.86Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <polyline class="cls-1" points="16.41 37.08 20.72 37.08 20.72 38.2 16.41 38.2" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="72.49" y="44.79" width="4.4" height="4.4" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-1" d="M397.27,153.74a1.59,1.59,0,1,1,1.58-1.59A1.59,1.59,0,0,1,397.27,153.74Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <polyline class="cls-1" points="75.16 45.54 75.16 49.19 74.21 49.19 74.21 45.54" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="46.14" y1="60.41" x2="102.39" y2="60.41" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="62.74" y="65.14" width="23.37" height="30.44" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-7" x="63.78" y="65.86" width="21.29" height="27.1" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-7" x1="85.07" y1="89.18" x2="63.78" y2="89.18" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-7" x="70.64" y="82.76" width="11.12" height="6.42" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-7" x1="81.76" y1="89.18" x2="81.76" y2="65.86" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-7" x1="70.64" y1="89.18" x2="70.64" y2="65.86" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-5" d="M397.12,173.92a1.45,1.45,0,1,1-1.45-1.45A1.45,1.45,0,0,1,397.12,173.92Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-5" d="M400.91,174.08a.95.95,0,1,1-1-1A1,1,0,0,1,400.91,174.08Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="81.8" y="66.33" width="2.78" height="6.94" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-8" x="78.07" y="66.76" width="1.57" height="0.58" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-8" x="79.72" y="66.76" width="1.57" height="0.58" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-5" d="M392.19,196.08A1.09,1.09,0,1,1,391.1,195,1.09,1.09,0,0,1,392.19,196.08Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="70.64" y="89.18" width="13.93" height="3.05" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="71.33" y="73" width="6.94" height="9.25" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-7" d="M403.47,177.05h0a1,1,0,0,0-2,0,.59.59,0,0,0,0,.14v16.64h2V177.05Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-7" d="M403.47,178h0a1,1,0,0,0-2,0,.59.59,0,0,0,0,.13v15.7h2V178Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-7" x1="80.9" y1="84.24" x2="78.87" y2="84.24" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-1" x1="64.46" y1="72.57" x2="69.75" y2="72.57" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-1" x1="64.46" y1="76.46" x2="69.75" y2="76.46" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="71.33" y="85.02" width="0.96" height="1.96" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-9" x="71.8" y="81.09" width="2.51" height="0.72" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-5" d="M400.35,183.19a1,1,0,1,1-1-1A1,1,0,0,1,400.35,183.19Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-5" d="M396.29,183.19a1,1,0,1,1-1-1A1,1,0,0,1,396.29,183.19Z" transform="translate(-322.58 -105.23)" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="71.87" y="73.85" width="1.79" height="0.89" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-7" x="64.46" y="70.7" width="5.54" height="17.77" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-7" x="64.46" y="72.57" width="5.54" height="3.89" style="stroke-width: 0.5px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-6" x="64.76" y="73.44" width="4.94" height="2.12" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-6" x="65.64" y="75.83" width="0.33" height="0.32" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-6" x="68.49" y="75.83" width="0.33" height="0.32" style="fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="82.41" y="85.69" width="1.96" height="0.91" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="3.74" y="156.38" width="42.4" height="6.91" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="46.14" y="156.38" width="56.25" height="6.91" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <polyline class="cls-1" points="102.39 7.78 102.39 156.38 144.8 156.38 144.8 1.19 102.39 1.19 102.39 7.78" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="102.39" y1="145.37" x2="144.8" y2="145.37" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="112.52" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="113.95" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="106.8" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.23" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="109.67" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="111.1" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.34" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="112.52" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="113.95" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="106.8" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.23" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="109.67" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="111.1" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.34" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="122.49" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="123.93" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="116.77" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="118.2" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="119.64" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="121.07" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="125.31" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="122.49" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="123.93" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="116.77" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="118.2" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="119.64" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="121.07" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="125.31" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="132.4" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="133.84" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="126.69" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="128.12" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="129.55" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="130.98" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="135.22" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="132.4" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="133.84" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="126.69" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="128.12" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="129.55" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="130.98" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="135.22" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="136.69" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="138.12" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="139.51" y="147.44" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="136.69" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="138.12" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="139.51" y="151.24" width="0.9" height="3.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="118.93" y="0.68" width="9.48" height="6.14" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-4" d="M442.28,109.17h8V107h-8Z" transform="translate(-322.58 -105.23)" style="fill-rule: evenodd; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <polyline class="cls-2" points="102.39 8.88 144.8 8.88 144.8 12.05 102.39 12.05" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="7.8" y="147" width="34.46" height="7.79" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="50.88" y="147" width="47.18" height="7.79" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="106.47" y="147" width="34.46" height="7.79" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="102.39" y1="156.38" x2="143.91" y2="156.38" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="102.39" y="156.38" width="42.4" height="6.91" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="16.99" x2="144.9" y2="16.99" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="20.41" x2="144.9" y2="20.41" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="17.64" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="141.98" y1="35.14" x2="141.98" y2="38.56" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="35.14" x2="144.9" y2="35.14" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="38.56" x2="144.9" y2="38.56" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.35" y="35.79" width="4.15" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="120.75" y="35.79" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="127.34" y="35.79" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="133.86" y="35.79" width="7.21" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="112.1" y1="35.12" x2="112.1" y2="38.58" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="91.32" x2="144.9" y2="91.32" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="94.74" x2="144.9" y2="94.74" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="91.96" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="87.9" x2="144.9" y2="87.9" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="91.32" x2="144.9" y2="91.32" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="88.55" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="70.81" x2="144.9" y2="70.81" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="74.23" x2="144.9" y2="74.23" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="71.46" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="94.74" x2="144.9" y2="94.74" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="98.15" x2="144.9" y2="98.15" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="95.38" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="98.15" x2="144.9" y2="98.15" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="101.57" x2="144.9" y2="101.57" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="98.8" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="116.46" x2="144.9" y2="116.46" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="119.88" x2="144.9" y2="119.88" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="117.11" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="119.88" x2="144.9" y2="119.88" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="123.3" x2="144.9" y2="123.3" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="120.52" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="138.14" x2="144.9" y2="138.14" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="131.61" x2="144.9" y2="131.61" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="141.55" x2="144.9" y2="141.55" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="138.78" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="105.14" y="133.53" width="9" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.22" y="133.53" width="10.34" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="126.65" y="133.53" width="10.34" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="138.07" y="133.53" width="2.83" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="116.46" x2="144.9" y2="116.46" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="109.94" x2="144.9" y2="109.94" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="101.57" x2="144.9" y2="101.57" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="105.14" y="111.86" width="9" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.22" y="111.86" width="10.34" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="126.65" y="111.86" width="10.34" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="138.07" y="111.86" width="2.83" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="108.39" y="142.2" width="32.68" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="104.89" y="102.77" width="9" height="5.96" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="123.14" y="102.77" width="7.67" height="2.98" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="104.89" y="124.57" width="9" height="5.96" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="123.14" y="124.57" width="7.67" height="2.98" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="141.98" y1="67.39" x2="141.98" y2="145.03" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="67.39" x2="144.9" y2="67.39" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="70.81" x2="144.9" y2="70.81" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.35" y="68.04" width="4.15" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="120.75" y="68.04" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="127.34" y="68.04" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="133.86" y="68.04" width="7.21" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="112.1" y1="67.62" x2="112.1" y2="71.08" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="112.1" y1="74.27" x2="112.1" y2="87.9" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="112.1" y1="102.77" x2="112.1" y2="108.73" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="112.1" y1="124.34" x2="112.1" y2="130.3" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="74.23" x2="144.9" y2="74.23" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="77.65" x2="144.9" y2="77.65" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.35" y="74.87" width="4.15" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="120.75" y="74.87" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="127.34" y="74.87" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="133.86" y="74.87" width="7.21" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="77.65" x2="144.9" y2="77.65" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="81.06" x2="144.9" y2="81.06" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.35" y="78.29" width="4.15" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="120.75" y="78.29" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="127.34" y="78.29" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="133.86" y="78.29" width="7.21" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="81.06" x2="144.9" y2="81.06" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="84.48" x2="144.9" y2="84.48" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.35" y="81.71" width="4.15" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="120.75" y="81.71" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="127.34" y="81.71" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="133.86" y="81.71" width="7.21" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="84.48" x2="144.9" y2="84.48" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-3" x1="102.5" y1="87.9" x2="144.9" y2="87.9" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="115.35" y="85.13" width="4.15" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="120.75" y="85.13" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="105.06" y="67.39" width="8.83" height="3.42" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="105.06" y="74.23" width="8.83" height="3.42" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="105.06" y="77.65" width="8.83" height="3.42" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="105.06" y="81.06" width="8.83" height="3.42" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="105.06" y="84.48" width="8.83" height="3.42" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="127.34" y="85.13" width="5.33" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="133.86" y="85.13" width="7.21" height="2.13" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="105.54" y="38.69" width="36.55" height="1.77" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-5" x="105.54" y="20.41" width="36.55" height="1.77" style="stroke-width: 0.23px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="14.28" y="60.52" width="7.31" height="7.31" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <path class="cls-10" d="M337.69,168.68a2.92,2.92,0,0,1,5.66,0h10.09v1.46H343.36a2.93,2.93,0,0,1-5.67,0l-.09-.73Z" transform="translate(-322.58 -105.23)" style="stroke-miterlimit: 1; stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-10" x1="20.77" y1="63.45" x2="15.11" y2="63.45" style="stroke-miterlimit: 1; stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-10" x1="20.77" y1="64.91" x2="15.11" y2="64.91" style="stroke-miterlimit: 1; stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="33.43" y1="8.9" x2="33.43" y2="12.14" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="42.41" y1="12.14" x2="42.41" y2="8.9" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="89.69" y1="9.05" x2="89.69" y2="12.28" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="98.66" y1="12.28" x2="98.66" y2="9.05" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="132.01" y1="8.93" x2="132.01" y2="12.17" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <line class="cls-2" x1="140.98" y1="12.17" x2="140.98" y2="8.93" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="105.06" y="35.14" width="8.83" height="3.42" style="stroke-width: 0.85px; fill: rgb(87, 92, 118); stroke: rgb(255, 255, 255);"/>
+  </g>
+  <desc>Created with Fabric.js 3.6.6</desc>
+  <g style="" transform="matrix(0.364407, 0, 0, 0.375277, -23.095079, -76.366577)">
+    <g transform="matrix(-0.78, 0, 0, 0.63, 247.065109, 322.186646)" id="Capa_1">
+      <polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(13,34,64); fill-rule: nonzero; opacity: 1;" points="-132.4,45.42 -132.4,45.22 150.69,45.22 150.69,-45.42 -132.4,-45.42 -150.69,-1.27 "/>
+    </g>
+    <g transform="matrix(0.831281, 0, 0, 0.831281, 219.75267, 320.736633)">
+      <g style="">
+        <g transform="matrix(1 0 0 1 -17.92 11.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-130.47, -80.43)" d="M 129.116 81.401 c 0 0.89 0.666 1.25 1.485 1.25 c 0.891 0 1.224 -0.432 1.224 -0.882 c 0 -0.45 -0.244 -0.629 -0.478 -0.72 c -0.405 -0.153 -0.936 -0.27 -1.746 -0.485 c -0.989 -0.261 -1.278 -0.865 -1.278 -1.477 c 0 -1.16 1.08 -1.709 2.133 -1.709 c 1.214 0 2.232 0.648 2.232 1.862 h -1.017 c -0.063 -0.747 -0.558 -1.026 -1.259 -1.026 c -0.478 0 -1.071 0.162 -1.071 0.756 c 0 0.405 0.279 0.629 0.694 0.747 c 0.081 0.029 1.385 0.361 1.682 0.452 c 0.766 0.225 1.134 0.881 1.134 1.493 c 0 1.295 -1.161 1.819 -2.322 1.819 c -1.332 0 -2.412 -0.631 -2.43 -2.079 H 129.116 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 -5.65 11.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-142.75, -80.43)" d="M 145.539 80.429 c 0 1.673 -1.044 3.051 -2.79 3.051 c -1.737 0 -2.798 -1.378 -2.798 -3.051 c 0 -1.657 1.061 -3.051 2.798 -3.051 C 144.495 77.378 145.539 78.772 145.539 80.429 z M 140.977 80.429 c 0 1.124 0.531 2.221 1.773 2.221 c 1.242 0 1.764 -1.097 1.764 -2.221 c 0 -1.117 -0.522 -2.215 -1.764 -2.215 C 141.508 78.215 140.977 79.312 140.977 80.429 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 6.59 11.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-154.99, -80.43)" d="M 152.991 77.522 h 1.044 v 4.949 h 2.952 v 0.865 h -3.996 V 77.522 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 18.15 11.43)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-166.54, -80.5)" d="M 164.15 77.522 h 1.008 v 3.393 c 0 0.782 0.072 1.7 1.368 1.7 c 1.331 0 1.386 -0.918 1.386 -1.7 v -3.393 h 1.026 v 3.725 c 0 1.493 -0.972 2.232 -2.412 2.232 c -1.44 0 -2.376 -0.739 -2.376 -2.232 V 77.522 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 30.04 11.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-178.43, -80.43)" d="M 176.066 77.522 h 4.734 v 0.873 h -1.854 v 4.941 h -1.026 v -4.941 h -1.854 V 77.522 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 40.11 11.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-188.51, -80.43)" d="M 187.998 77.522 h 1.027 v 5.814 h -1.027 V 77.522 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 50.88 11.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-199.28, -80.43)" d="M 202.056 80.429 c 0 1.673 -1.026 3.051 -2.772 3.051 c -1.764 0 -2.789 -1.378 -2.789 -3.051 c 0 -1.657 1.026 -3.051 2.789 -3.051 C 201.03 77.378 202.056 78.772 202.056 80.429 z M 197.502 80.429 c 0 1.124 0.522 2.221 1.782 2.221 c 1.26 0 1.764 -1.097 1.764 -2.221 c 0 -1.117 -0.504 -2.215 -1.764 -2.215 C 198.024 78.215 197.502 79.312 197.502 80.429 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 63.46 11.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-211.86, -80.43)" d="M 209.49 77.522 h 1.061 l 2.664 4.283 h 0.036 v -4.283 h 0.971 v 5.814 h -1.08 l -2.664 -4.276 h -0.018 v 4.276 h -0.971 V 77.522 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 75.58 11.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-223.98, -80.43)" d="M 222.628 81.401 c 0 0.89 0.667 1.25 1.458 1.25 c 0.901 0 1.243 -0.432 1.243 -0.882 c 0 -0.45 -0.234 -0.629 -0.486 -0.72 c -0.397 -0.153 -0.936 -0.27 -1.728 -0.485 c -1.008 -0.261 -1.296 -0.865 -1.296 -1.477 c 0 -1.16 1.08 -1.709 2.124 -1.709 c 1.224 0 2.232 0.648 2.232 1.862 h -1.008 c -0.054 -0.747 -0.558 -1.026 -1.26 -1.026 c -0.468 0 -1.061 0.162 -1.061 0.756 c 0 0.405 0.27 0.629 0.701 0.747 c 0.072 0.029 1.368 0.361 1.656 0.452 c 0.792 0.225 1.152 0.881 1.152 1.493 c 0 1.295 -1.152 1.819 -2.304 1.819 c -1.35 0 -2.429 -0.631 -2.447 -2.079 H 222.628 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 -13.63 -3.33)" id="Capa_1">
+          <polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" points="-0.16,-1.52 0.5,-3.91 0.82,-5.12 7.29,-5.12 7.97,-7.57 -3.88,-7.57 -4.73,-4.4 -7.97,7.57 -2.67,7.57 -0.89,1.01 5.46,1.01 6.13,-1.52 "/>
+        </g>
+        <g transform="matrix(1 0 0 1 0.17 -3.34)" id="Capa_1">
+          <polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" points="5.47,0.99 6.15,-1.47 -0.11,-1.47 0.25,-2.74 0.88,-5.11 7.3,-5.11 7.95,-7.56 -3.87,-7.56 -5.04,-3.18 -7.95,7.56 4.01,7.56 4.68,5.11 -1.91,5.11 -0.8,0.99 "/>
+        </g>
+        <g transform="matrix(1 0 0 1 15.21 -3.34)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-163.61, -65.73)" d="M 171.493 64.518 l 0.9 -3.311 c 0.036 -0.117 0.072 -0.243 0.108 -0.36 c 0 -0.117 0.018 -0.235 0.018 -0.343 c 0.018 -0.117 0.054 -0.224 0.054 -0.324 c 0 -0.09 0 -0.18 -0.036 -0.279 c 0 -0.081 -0.036 -0.171 -0.036 -0.261 c -0.036 -0.09 -0.072 -0.171 -0.09 -0.243 c -0.018 -0.054 -0.054 -0.117 -0.09 -0.19 c -0.036 -0.072 -0.072 -0.144 -0.126 -0.207 c -0.054 -0.063 -0.126 -0.126 -0.198 -0.198 c -0.071 -0.063 -0.143 -0.135 -0.216 -0.18 c -0.072 -0.045 -0.162 -0.099 -0.253 -0.144 c -0.072 -0.054 -0.162 -0.081 -0.252 -0.108 c -0.108 -0.018 -0.198 -0.045 -0.287 -0.072 c -0.108 -0.027 -0.216 -0.045 -0.306 -0.054 c -0.108 -0.018 -0.216 -0.027 -0.306 -0.036 c -0.108 -0.009 -0.216 -0.009 -0.306 -0.009 h -11.34 l -1.458 5.417 l -2.628 9.648 h 5.31 l 1.475 -5.382 h 6.138 c 0.108 0 0.216 -0.009 0.359 -0.018 c 0.108 0 0.234 -0.009 0.324 -0.045 c 0.109 -0.018 0.253 -0.036 0.361 -0.063 c 0.108 -0.036 0.252 -0.063 0.378 -0.108 c 0.09 -0.027 0.162 -0.063 0.27 -0.117 c 0.108 -0.045 0.198 -0.09 0.288 -0.134 c 0.072 -0.045 0.144 -0.09 0.235 -0.154 c 0.09 -0.054 0.162 -0.099 0.27 -0.171 c 0.054 -0.045 0.126 -0.117 0.216 -0.18 c 0.072 -0.072 0.144 -0.144 0.18 -0.216 c 0.072 -0.054 0.144 -0.126 0.216 -0.206 c 0.072 -0.081 0.108 -0.171 0.162 -0.252 c 0.054 -0.09 0.126 -0.171 0.162 -0.261 c 0.072 -0.099 0.108 -0.199 0.144 -0.316 c 0.054 -0.09 0.108 -0.198 0.143 -0.324 c 0.036 -0.126 0.072 -0.234 0.108 -0.351 L 171.493 64.518 z M 166.13 64.545 c -0.036 0.045 -0.036 0.099 -0.072 0.135 c 0 0.054 -0.036 0.099 -0.036 0.144 c -0.036 0.036 -0.072 0.09 -0.108 0.135 c -0.054 0.045 -0.09 0.099 -0.108 0.135 c -0.036 0.045 -0.072 0.09 -0.126 0.126 c -0.054 0.045 -0.09 0.081 -0.162 0.099 c -0.036 0.018 -0.072 0.036 -0.108 0.054 c -0.054 0.009 -0.108 0.018 -0.144 0.018 h -3.168 l 0.396 -1.413 l 0.882 -3.293 h 3.168 c 0.036 0 0.072 0.009 0.108 0.027 c 0.054 0.009 0.072 0.027 0.108 0.036 c 0.036 0.018 0.054 0.045 0.09 0.063 c 0.036 0.027 0.054 0.063 0.054 0.09 c 0.018 0.027 0.036 0.063 0.072 0.108 c 0.018 0.045 0.018 0.081 0.018 0.126 c 0 0.045 0 0.081 0 0.135 c 0 0.054 0 0.099 -0.018 0.162 l -0.757 2.772 L 166.13 64.545 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 69.55 -3.33)" id="Capa_1">
+          <polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" points="4.95,-7.57 0.88,-0.94 -0.31,1.04 -0.38,-0.83 -0.67,-7.57 -7.54,-7.57 -9.5,-0.41 -11.65,7.55 -9.34,7.55 -7.15,-0.48 -6.08,-4.38 -5.89,-0.53 -5.45,7.55 -1.76,7.55 3.51,-1.18 5.53,-4.51 4.64,-1.3 2.25,7.57 7.54,7.57 10.19,-2.16 11.65,-7.57 "/>
+        </g>
+        <g transform="matrix(1 0 0 1 50.13 -3.36)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-198.53, -65.71)" d="M 207.114 62.024 c 0.018 -0.153 0.054 -0.288 0.09 -0.414 c 0.018 -0.126 0.036 -0.252 0.054 -0.378 c 0.018 -0.126 0.036 -0.234 0.054 -0.333 c 0 -0.153 0 -0.316 0 -0.469 c 0 -0.153 -0.018 -0.297 -0.054 -0.422 c -0.018 -0.126 -0.036 -0.243 -0.054 -0.351 c -0.054 -0.117 -0.09 -0.225 -0.126 -0.324 c -0.054 -0.099 -0.108 -0.199 -0.18 -0.298 c -0.072 -0.108 -0.144 -0.198 -0.198 -0.27 c -0.108 -0.054 -0.18 -0.117 -0.288 -0.18 c -0.072 -0.063 -0.18 -0.117 -0.289 -0.162 c -0.072 -0.036 -0.18 -0.081 -0.287 -0.117 c -0.108 -0.036 -0.216 -0.054 -0.342 -0.09 c -0.234 -0.045 -0.486 -0.063 -0.738 -0.063 h -8.351 c -0.144 0 -0.289 0.009 -0.433 0.027 c -0.144 0.027 -0.287 0.045 -0.413 0.063 c -0.162 0.018 -0.306 0.045 -0.432 0.09 c -0.144 0.036 -0.27 0.072 -0.414 0.117 c -0.09 0.036 -0.198 0.081 -0.306 0.153 c -0.108 0.054 -0.198 0.108 -0.306 0.162 c -0.108 0.072 -0.198 0.144 -0.306 0.207 c -0.09 0.081 -0.198 0.153 -0.27 0.234 c -0.072 0.073 -0.18 0.145 -0.269 0.244 c -0.09 0.099 -0.162 0.198 -0.234 0.306 c -0.072 0.108 -0.163 0.234 -0.253 0.341 c -0.072 0.108 -0.144 0.225 -0.216 0.36 c -0.036 0.108 -0.108 0.226 -0.18 0.352 c -0.072 0.126 -0.108 0.252 -0.18 0.378 c -0.036 0.135 -0.09 0.27 -0.144 0.422 c -0.036 0.162 -0.09 0.306 -0.144 0.45 L 191.04 65.3 l -1.133 4.23 c -0.018 0.09 -0.018 0.198 -0.054 0.306 c -0.018 0.108 -0.036 0.206 -0.054 0.306 c -0.018 0.108 -0.054 0.225 -0.054 0.334 c 0 0.099 0 0.198 0 0.306 c 0 0.108 0 0.216 0 0.333 c 0.036 0.108 0.036 0.216 0.054 0.315 c 0.018 0.099 0.054 0.198 0.054 0.288 c 0.036 0.108 0.072 0.198 0.108 0.279 c 0.018 0.117 0.072 0.216 0.108 0.306 c 0.072 0.09 0.126 0.18 0.216 0.261 c 0.036 0.09 0.108 0.171 0.216 0.234 c 0.09 0.072 0.18 0.135 0.288 0.189 c 0.054 0.054 0.144 0.081 0.252 0.137 c 0.072 0.043 0.18 0.061 0.288 0.072 c 0.072 0.036 0.181 0.054 0.289 0.054 c 0.108 0.018 0.216 0.018 0.342 0.018 h 8.981 c 0.144 0 0.288 -0.018 0.432 -0.036 c 0.127 -0.018 0.253 -0.036 0.397 -0.047 c 0.126 -0.018 0.252 -0.043 0.378 -0.099 c 0.126 -0.045 0.252 -0.099 0.378 -0.162 c 0.162 -0.081 0.325 -0.189 0.523 -0.315 c 0.18 -0.126 0.342 -0.261 0.522 -0.423 c 0.072 -0.09 0.18 -0.198 0.27 -0.324 c 0.09 -0.126 0.198 -0.243 0.306 -0.369 c 0.072 -0.126 0.162 -0.252 0.252 -0.396 c 0.09 -0.126 0.162 -0.279 0.216 -0.432 c 0.054 -0.126 0.109 -0.252 0.181 -0.388 c 0.054 -0.135 0.108 -0.27 0.162 -0.414 c 0.054 -0.144 0.108 -0.279 0.162 -0.441 c 0.036 -0.153 0.09 -0.307 0.144 -0.469 l 0.955 -3.573 l 0.791 -2.925 C 207.06 62.312 207.096 62.168 207.114 62.024 z M 199.609 69.98 c -0.018 0.027 -0.036 0.081 -0.072 0.135 c -0.037 0.063 -0.055 0.117 -0.073 0.153 c -0.036 0.046 -0.072 0.091 -0.108 0.136 c -0.054 0.054 -0.108 0.09 -0.144 0.117 c -0.036 0.036 -0.09 0.09 -0.144 0.135 c -0.072 0.027 -0.108 0.063 -0.18 0.081 c -0.036 0.027 -0.072 0.045 -0.144 0.054 c -0.054 0.018 -0.108 0.018 -0.144 0.018 h -2.88 c -0.036 0 -0.072 0 -0.144 -0.018 c -0.036 -0.009 -0.072 -0.027 -0.126 -0.054 c -0.036 -0.018 -0.072 -0.045 -0.108 -0.081 c -0.054 -0.027 -0.09 -0.063 -0.126 -0.099 c -0.018 -0.027 -0.036 -0.054 -0.072 -0.108 c -0.036 -0.054 -0.036 -0.099 -0.054 -0.135 c 0 -0.046 -0.018 -0.091 -0.018 -0.144 c 0 -0.054 0 -0.09 0.018 -0.135 l 1.242 -4.635 l 1.025 -3.743 c 0.018 -0.054 0.054 -0.117 0.09 -0.198 c 0.036 -0.054 0.072 -0.126 0.108 -0.198 c 0.036 -0.063 0.072 -0.117 0.144 -0.189 c 0.054 -0.054 0.108 -0.108 0.162 -0.144 c 0.054 -0.036 0.09 -0.063 0.162 -0.108 c 0.073 -0.027 0.127 -0.063 0.181 -0.09 c 0.072 -0.018 0.108 -0.027 0.18 -0.045 c 0.072 -0.01 0.144 -0.019 0.216 -0.019 h 2.736 c 0.036 0 0.073 0.009 0.145 0.028 c 0.036 0.027 0.072 0.045 0.108 0.054 c 0.036 0.018 0.072 0.045 0.108 0.072 c 0.036 0.045 0.072 0.072 0.108 0.108 c 0.036 0.018 0.054 0.054 0.072 0.108 c 0.018 0.045 0.036 0.099 0.054 0.144 c 0 0.027 0 0.081 0 0.144 c 0 0.054 -0.018 0.108 -0.018 0.135 l -1.08 3.969 L 199.609 69.98 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 31.93 -3.33)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-180.33, -65.74)" d="M 189.33 59.55 c -0.036 -0.09 -0.054 -0.18 -0.09 -0.261 c -0.036 -0.1 -0.072 -0.172 -0.108 -0.226 c -0.072 -0.135 -0.216 -0.27 -0.36 -0.387 c -0.144 -0.108 -0.324 -0.198 -0.468 -0.27 c -0.181 -0.054 -0.397 -0.108 -0.648 -0.144 c -0.234 -0.045 -0.468 -0.063 -0.756 -0.063 h -11.519 l -1.746 6.426 l -2.359 8.665 h 5.347 l 1.782 -6.524 h 1.71 l 0.773 6.524 h 5.94 l -1.26 -6.542 c 0.108 0 0.216 -0.008 0.324 -0.018 c 0.09 -0.009 0.18 -0.018 0.288 -0.036 c 0.072 0 0.181 0 0.253 -0.027 c 0.09 -0.018 0.162 -0.045 0.252 -0.072 c 0.054 -0.009 0.144 -0.045 0.216 -0.072 c 0.072 -0.036 0.144 -0.072 0.216 -0.099 c 0.036 -0.036 0.108 -0.063 0.144 -0.108 c 0.072 -0.036 0.108 -0.081 0.162 -0.117 c 0.054 -0.063 0.108 -0.126 0.198 -0.198 c 0.072 -0.063 0.126 -0.135 0.162 -0.181 c 0.054 -0.063 0.09 -0.126 0.126 -0.207 c 0.036 -0.081 0.072 -0.153 0.108 -0.225 c 0.036 -0.054 0.054 -0.108 0.09 -0.171 c 0.018 -0.027 0.018 -0.036 0.018 -0.054 c 0.037 -0.09 0.072 -0.162 0.072 -0.243 c 0.036 -0.045 0.036 -0.126 0.072 -0.207 c 0.018 -0.072 0.036 -0.162 0.072 -0.234 l 0.828 -3.096 c 0.072 -0.225 0.108 -0.441 0.144 -0.648 c 0.036 -0.208 0.072 -0.388 0.072 -0.559 c 0 -0.09 0 -0.198 -0.018 -0.324 C 189.349 59.748 189.349 59.649 189.33 59.55 z M 180.097 60.684 h 3.294 c 0.036 0 0.072 0.009 0.126 0.009 c 0.036 0.009 0.072 0.018 0.108 0.018 c 0.036 0 0.072 0.009 0.108 0.027 c 0.036 0.027 0.054 0.045 0.072 0.054 c 0 0.027 0.036 0.054 0.054 0.081 c 0.018 0.036 0.036 0.054 0.036 0.09 c 0 0.027 0 0.072 -0.018 0.108 c 0 0.054 -0.018 0.108 -0.036 0.135 l -0.612 2.303 c -0.018 0.081 -0.036 0.135 -0.072 0.189 c 0 0.045 -0.036 0.09 -0.036 0.135 c 0 0.036 -0.036 0.081 -0.071 0.126 c -0.036 0.037 -0.036 0.064 -0.072 0.082 c 0 0.027 -0.055 0.063 -0.091 0.09 c -0.054 0.036 -0.09 0.072 -0.126 0.09 c -0.036 0.009 -0.054 0.018 -0.108 0.027 c -0.036 0.009 -0.108 0.009 -0.144 0.009 h -3.384 L 180.097 60.684 z" stroke-linecap="round"/>
+        </g>
+        <g transform="matrix(1 0 0 1 -56.16 0)" id="Capa_1">
+          <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-92.24, -69.07)" d="M 102.414 47.464 l -10.178 -4.5 L 67.2 54.006 l 0.09 0.577 c -0.027 -0.027 -0.063 -0.036 -0.09 -0.054 c 0.027 0.018 0.063 0.036 0.09 0.054 l 3.869 24.46 l 9.369 7.172 l 11.708 8.964 l 21.067 -16.136 l 3.969 -25.037 L 102.414 47.464 z M 92.776 83.049 V 67.515 l 13.49 -7.11 L 105.239 74.3 L 92.776 83.049 z M 91.704 83.011 l -11.663 -8.845 l -0.944 -0.719 l 0.09 1.187 l 0.675 9.782 l -7.803 -5.976 l -3.662 -23.201 l 3.087 1.629 c 2.592 1.395 5.183 2.772 7.758 4.176 c 2.636 1.349 5.274 2.717 7.902 4.076 l 4.562 2.395 V 83.011 z M 92.236 66.587 L 68.883 54.286 l 23.29 -10.269 l 8.486 3.744 l -8.667 4.508 l -0.981 0.523 l 0.99 0.45 l 13.662 6.273 L 92.236 66.587 z" stroke-linecap="round"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="g-2" data-name="Original" transform="matrix(0.410779, 0, 0, 0.335231, 39.10603, 66.253479)" style="">
+    <rect class="cls-1" x="0.42" y="0.44" width="39.67" height="83.54" style="fill: rgb(87, 92, 118);"/>
+    <path class="cls-2" d="M387.37,229.29H346.85V144.9h40.52Zm-39.67-.85h38.82V145.75H347.7Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M347.28,226.45v-.86a60.72,60.72,0,0,0,14.16-1.69H387v.85H361.58A62,62,0,0,1,347.28,226.45Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="31.13" y="0.42" width="0.23" height="6.14" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="24.28" y="0.42" width="0.23" height="6.14" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M380.88,151.56H353.34V145.2h27.54Zm-27.31-.22h27.08v-5.92H353.57Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="12.25" y="2.07" width="1.25" height="1.25" style="fill: rgb(217, 237, 245);"/>
+    <rect class="cls-3" x="14.52" y="2.07" width="1.25" height="1.25" style="fill: rgb(217, 237, 245);"/>
+    <rect class="cls-3" x="16.79" y="2.07" width="1.25" height="1.25" style="fill: rgb(217, 237, 245);"/>
+    <path class="cls-2" d="M366,149.52h-8v-4.17h8Zm-7.74-.23h7.51v-3.71h-7.51Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="22.82 67.14 17.7 67.14 17.7 61.46 17.14 61.46 17.14 67.71 23.39 67.71 23.39 61.46 22.82 61.46 22.82 67.14" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="17.7 48.39 17.7 54.07 17.14 54.07 17.14 47.81 23.39 47.81 23.39 54.07 22.82 54.07 22.82 48.39 17.7 48.39" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="16.57 60.32 10.88 60.32 10.88 55.2 16.57 55.2 16.57 54.64 10.31 54.64 10.31 60.89 16.57 60.89 16.57 60.32" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="12.87 69.58 12.87 70.15 6.62 70.15 6.62 63.9 7.19 63.9 7.19 69.58 12.87 69.58" style="fill: rgb(244, 244, 244);"/>
+    <polygon class="cls-2" points="33.34 63.9 33.34 69.58 27.65 69.58 27.65 70.15 33.9 70.15 33.9 63.9 33.34 63.9" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="23.96 60.89 23.96 60.32 29.64 60.32 29.64 55.2 23.96 55.2 23.96 54.64 30.21 54.64 30.21 60.89 23.96 60.89" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M383.89,217.29H350.33V153.44h33.56Zm-33.33-.22h33.11V153.66H350.56Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="8.87" y="9.41" width="9.83" height="2.61" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M380.87,191.39H353.36V153.44h27.51Zm-27.29-.22h27.06V153.66H353.58Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="8.87" y="14.52" width="22.79" height="29.08" style="fill: rgb(217, 237, 245);"/>
+    <rect class="cls-1" x="40.12" y="0.44" width="39.67" height="83.54" style="fill: rgb(87, 92, 118);"/>
+    <path class="cls-2" d="M427.07,229.29H386.54V144.9h40.53Zm-39.68-.85h38.83V145.75H387.39Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M387,226.45v-.86a60.69,60.69,0,0,0,14.15-1.69h25.52v.85H401.27A62,62,0,0,1,387,226.45Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="79.79" y="0.42" width="19.78" height="83.55" style="fill: rgb(87, 92, 118);"/>
+    <path class="cls-2" d="M446.85,229.29H426.22v-84.4h20.63Zm-19.78-.85H446v-82.7H427.07Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M426.65,226.45v-.86a58.82,58.82,0,0,0,14.11-1.69h5.67v.85h-5.52A59.57,59.57,0,0,1,426.65,226.45Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M443.92,151.57H429.15V145.2h14.77Zm-14.54-.23h14.31v-5.92H429.38Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-4" x="8.87" y="14.52" width="22.79" height="29.08" style="fill: rgb(255, 237, 0);"/>
+  </g>
+  <g id="g-3" data-name="Original" transform="matrix(0.410779, 0, 0, 0.335231, 38.793194, 114.087585)" style="">
+    <rect class="cls-1" x="0.42" y="0.44" width="39.67" height="83.54" style="fill: rgb(87, 92, 118);"/>
+    <path class="cls-2" d="M387.37,229.29H346.85V144.9h40.52Zm-39.67-.85h38.82V145.75H347.7Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M347.28,226.45v-.86a60.72,60.72,0,0,0,14.16-1.69H387v.85H361.58A62,62,0,0,1,347.28,226.45Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="31.13" y="0.42" width="0.23" height="6.14" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="24.28" y="0.42" width="0.23" height="6.14" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M380.88,151.56H353.34V145.2h27.54Zm-27.31-.22h27.08v-5.92H353.57Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="12.25" y="2.07" width="1.25" height="1.25" style="fill: rgb(217, 237, 245);"/>
+    <rect class="cls-3" x="14.52" y="2.07" width="1.25" height="1.25" style="fill: rgb(217, 237, 245);"/>
+    <rect class="cls-3" x="16.79" y="2.07" width="1.25" height="1.25" style="fill: rgb(217, 237, 245);"/>
+    <path class="cls-2" d="M366,149.52h-8v-4.17h8Zm-7.74-.23h7.51v-3.71h-7.51Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="22.82 67.14 17.7 67.14 17.7 61.46 17.14 61.46 17.14 67.71 23.39 67.71 23.39 61.46 22.82 61.46 22.82 67.14" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="17.7 48.39 17.7 54.07 17.14 54.07 17.14 47.81 23.39 47.81 23.39 54.07 22.82 54.07 22.82 48.39 17.7 48.39" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="16.57 60.32 10.88 60.32 10.88 55.2 16.57 55.2 16.57 54.64 10.31 54.64 10.31 60.89 16.57 60.89 16.57 60.32" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="12.87 69.58 12.87 70.15 6.62 70.15 6.62 63.9 7.19 63.9 7.19 69.58 12.87 69.58" style="fill: rgb(244, 244, 244);"/>
+    <polygon class="cls-2" points="33.34 63.9 33.34 69.58 27.65 69.58 27.65 70.15 33.9 70.15 33.9 63.9 33.34 63.9" style="fill: rgb(255, 255, 255);"/>
+    <polygon class="cls-2" points="23.96 60.89 23.96 60.32 29.64 60.32 29.64 55.2 23.96 55.2 23.96 54.64 30.21 54.64 30.21 60.89 23.96 60.89" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M383.89,217.29H350.33V153.44h33.56Zm-33.33-.22h33.11V153.66H350.56Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-2" x="8.87" y="9.41" width="9.83" height="2.61" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M380.87,191.39H353.36V153.44h27.51Zm-27.29-.22h27.06V153.66H353.58Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-3" x="8.87" y="14.52" width="22.79" height="29.08" style="fill: rgb(217, 237, 245);"/>
+    <rect class="cls-1" x="40.12" y="0.44" width="39.67" height="83.54" style="fill: rgb(87, 92, 118);"/>
+    <path class="cls-2" d="M427.07,229.29H386.54V144.9h40.53Zm-39.68-.85h38.83V145.75H387.39Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M387,226.45v-.86a60.69,60.69,0,0,0,14.15-1.69h25.52v.85H401.27A62,62,0,0,1,387,226.45Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-1" x="79.79" y="0.42" width="19.78" height="83.55" style="fill: rgb(87, 92, 118);"/>
+    <path class="cls-2" d="M446.85,229.29H426.22v-84.4h20.63Zm-19.78-.85H446v-82.7H427.07Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M426.65,226.45v-.86a58.82,58.82,0,0,0,14.11-1.69h5.67v.85h-5.52A59.57,59.57,0,0,1,426.65,226.45Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <path class="cls-2" d="M443.92,151.57H429.15V145.2h14.77Zm-14.54-.23h14.31v-5.92H429.38Z" transform="translate(-346.85 -144.89)" style="fill: rgb(255, 255, 255);"/>
+    <rect class="cls-4" x="8.87" y="14.52" width="22.79" height="29.08" style="fill: rgb(255, 237, 0);"/>
+  </g>
+</svg>
