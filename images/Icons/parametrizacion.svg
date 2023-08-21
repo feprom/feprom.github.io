@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="198.02536542150807" y="251.8749887531153" angle="0"/>
+    <bx:guide x="213.52972984196475" y="246.59690724827897" angle="0"/>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -131.804001, -55.495998)">
+    <rect x="131.804" y="55.496" width="120" height="120" style="stroke: rgb(255, 255, 255); fill: rgb(6, 141, 194);"/>
+    <g transform="matrix(1.973276, 0, 0, 1.973276, -199.761398, -386.478149)">
+      <ellipse style="fill-opacity: 0; stroke-width: 3px; stroke: rgb(255, 248, 248); fill: rgb(6, 142, 194);" cx="197.923" cy="251.755" rx="15" ry="15"/>
+      <line style="stroke-width: 5px; stroke: rgb(255, 248, 248); fill: rgb(6, 142, 194);" x1="208.928" y1="263.35" x2="218.397" y2="272.819"/>
+    </g>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 7px; font-weight: 700; white-space: pre;" transform="matrix(1, 0, 0, 1, -6.531484, 26.638206)"><tspan x="150.758" y="68.815">1000100100001100100</tspan><tspan x="150.758" dy="1em">​</tspan><tspan>10101110101010101</tspan><tspan x="150.758" dy="1em">​</tspan><tspan>101010</tspan><tspan x="150.758" dy="1em">​</tspan><tspan>10101010101010</tspan><tspan x="150.758" dy="1em">​</tspan><tspan>101010</tspan><tspan x="150.758" dy="1em">​</tspan><tspan>10101010</tspan></text>
+  </g>
+</svg>
