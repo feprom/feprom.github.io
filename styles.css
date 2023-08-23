@@ -88,16 +88,19 @@ main{
         
     }
     .Alarmas{
-        display: flex;
-        padding: 10px;
-        background-color: white;
+        
+        .titulo{
+            font-size: 1.9rem;
+            color: #0d2240;
+            
+        }
         .Alarma{
             flex: 1;
             height: 80px;
             padding: 10px
             border-radius: 10px;
-            background: white;
-            margin: 2px;
+            background: #D8DCE7;
+            margin: 5px;
             display: flex  ;
             justify-content: center;
             align-items: center;
@@ -107,11 +110,52 @@ main{
             font-family:  'verdana' ;
             color: black;
         }
-        
+          
         }
     .piepagina{
         background-color:white;
         
     }        
+}
+resumen{    
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+  
+    .Titulo{
+            font-size: 1rem;
+            font-weight: 500;
+            font-weight: bold;
+            font-family:  'verdana' ;
+            color: #0d2240;
+    }
+    
+    .Alarma{
+         
+        
+        
+        .logo{
+           width: 100%;
+        }
+        .info{
+            
+            text-align: center;
+            padding: px;
+            
+            .conteo{
+                font-weight: bold;
+                font-family:  'verdana' ;
+                
+        }
+            .tipo{
+                
+                font-family:  'verdana' ;
+                font-size: 0.6rem;
+                font-weight: 500;
+        }
+            
+
+    
+}
 }
 
