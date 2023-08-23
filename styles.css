@@ -128,31 +128,37 @@ resumen{
             font-weight: bold;
             font-family:  'verdana' ;
             color: #0d2240;
+            padding-bottom: 15px;
     }
     
     .Alarma{
-         
-        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background:#0d2240 ;    
+        padding: 15px;
+        border-radius: 10px;
         
         .logo{
-           width: 100%;
+           ;
         }
         .info{
             
             text-align: center;
-            padding: px;
-            
+            padding-right:50px;
+            width: 50px;
+           color: white;
             .conteo{
                 font-weight: bold;
                 font-family:  'verdana' ;
                 
-        }
+                    }
             .tipo{
                 
                 font-family:  'verdana' ;
                 font-size: 0.6rem;
                 font-weight: 500;
-        }
+                }
             
 
     
