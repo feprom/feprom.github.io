@@ -87,7 +87,9 @@ main{
             color: white;
             &:hover {
                 background: #D8DCE7;
-                 color:black;}
+                color:black;
+                font-size: 0.8rem;}
+                
         }
         
     }
@@ -127,6 +129,7 @@ resumen{
     padding: 5px;
     justify-content: center;
     align-items: center;
+   
   
     .Titulo{
             font-size: 0.9rem;
@@ -136,7 +139,13 @@ resumen{
             color: #0d2240;
             padding-bottom: 5px;
     }
-    
+   
+    .Alarmas{
+        display: flex;
+        background:#0d2240 ;    
+        border-radius: 10px;
+        align-items: center;
+        justify-content: center;
     .Alarma{
         display: flex;
         justify-content: center;
@@ -150,8 +159,11 @@ resumen{
             text-align: center;
             padding-right:50px;
             width: 50px;
-           color: white;
-            
+            color: white;
+            .logo{
+                background: white;
+                width: 10px;
+            }
             .conteo{
                 font-weight: bold;
                 font-family:  'verdana' ;
@@ -163,10 +175,26 @@ resumen{
                 font-size: 0.6rem;
                 font-weight: 500;
                 }
-            
+           &:hover {
+                background: #D8DCE7;
+                font-size: 1.1rem;
+               color: black;}
+}
+         &:hover {
+                background: #D8DCE7;
+                font-size: 1.1rem;
+                color: black;
+                .conteo{
+                      color: black;
+                    }
+             
+               }
 
+       
+}
+         
+}
+       
     
-}
-}
-
+    }
       }
