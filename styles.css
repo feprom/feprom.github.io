@@ -74,6 +74,7 @@ main{
             height: 80px;
             padding: 10px
             border-radius: 10px;
+            
             background: #0d2240;
             margin: 2px;
             display: flex  ;
@@ -84,6 +85,9 @@ main{
             font-weight: bold;
             font-family:  'verdana' ;
             color: white;
+            &:hover {
+                background: #D8DCE7;
+                 color:black;}
         }
         
     }
@@ -108,7 +112,9 @@ main{
             font-size: 0.7rem;
             font-weight: bold;
             font-family:  'verdana' ;
-            color: black;
+    
+         
+    
         }
           
         }
@@ -116,7 +122,7 @@ main{
         background-color:white;
         
     }        
-}
+    }
 resumen{    
     padding: 5px;
     justify-content: center;
@@ -139,15 +145,13 @@ resumen{
         padding: 10px;
         border-radius: 10px;
         
-        .logo{
-           
-        }
         .info{
             
             text-align: center;
             padding-right:50px;
             width: 50px;
            color: white;
+            
             .conteo{
                 font-weight: bold;
                 font-family:  'verdana' ;
