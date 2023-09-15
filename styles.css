@@ -200,4 +200,56 @@ resumen{
        
     
     }
-      }
+panel{
+      border-radius: 10px;
+
+   
+    .titulo{
+       font-size: 0.9rem;
+       font-weight: 500;
+       font-weight: bold;
+       font-family:  'verdana' ;
+       color: #0d2240;
+       padding-bottom: 5px;
+       padding-top: 5px;
+    }
+    .Contenedor
+    {
+        background: #0d2240;
+        color: white;
+        font-family: 'verdana';
+        align-content: center;
+        justify-content: center;
+        border-radius: 10px;
+    .metricas{
+        display: flex;
+        
+        .metrica{
+            display: flex;
+            font-size: 0.8rem;
+            padding-left: 25px;
+            padding-right: 25px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            .tag{
+                width: 65px;
+                
+                ;
+                }
+            .valor{
+                width: 50px;
+                border-bottom-width: 10px;
+                border: 1px solid #068dc2;
+                padding-left: 5px;
+                padding-right: 5px;
+                text-align: end;
+            }
+            .unidad{
+                width: 10px;
+                font-weight: bold;
+                padding-left: 5px;
+            }
+        }
+    }
+ }
+}
